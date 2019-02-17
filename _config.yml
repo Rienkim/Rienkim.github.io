@@ -109,7 +109,7 @@ author:
   name             : "Rienkim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programming IT 블로그"
-  #location         : "Somewhere"
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
